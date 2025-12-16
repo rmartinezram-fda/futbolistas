@@ -1,0 +1,6 @@
+
+nombre,posicion,equipo
+Messi,delantero,Inter
+Ronaldo,delantero,Alassar
+Lewandosi,delantero,Barcelona
+Vinicius,delantero,Madrid
